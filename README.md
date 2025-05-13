@@ -1,5 +1,3 @@
-# plan-lecture-bible
-Plan de lecture de la Bible
 <!DOCTYPE html>
 <html lang="fr">
 <head>
